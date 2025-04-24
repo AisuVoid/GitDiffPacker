@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QnBPAcSVqXRALoEXLa4/I1V9t6Rcp6XEcaT6wGtrc7h3zUXGsNyWDqXK0xFI6RY2+/uWYHhdJQ7CnJ4bFBxRlw==",
+  "success": true,
+  "projectFilePath": "/Users/11356888/Projects/GitDiffPacker/GitDiffPacker/GitDiffPacker.csproj",
+  "expectedPackageFiles": [
+    "/Users/11356888/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
